@@ -1,1 +1,49 @@
-{"tracked_setups": {}}
+{
+  "tracked_setups": {
+    "XAUUSD_bullish_4642.25000_4625.41000": {
+      "asset": "XAUUSD",
+      "direction": "bullish",
+      "entry": 4642.25,
+      "sl": 4625.41,
+      "tp": 4696.76,
+      "status": "detected",
+      "notified_detected": true
+    },
+    "XAUUSD_bearish_4675.58000_4696.76000": {
+      "asset": "XAUUSD",
+      "direction": "bearish",
+      "entry": 4675.58,
+      "sl": 4696.76,
+      "tp": 4605.45,
+      "status": "detected",
+      "notified_detected": true
+    },
+    "XAUUSD_bearish_4656.12000_4673.78000": {
+      "asset": "XAUUSD",
+      "direction": "bearish",
+      "entry": 4656.12,
+      "sl": 4673.78,
+      "tp": 4583.24,
+      "status": "detected",
+      "notified_detected": true
+    },
+    "XAUUSD_bearish_4601.44000_4610.91000": {
+      "asset": "XAUUSD",
+      "direction": "bearish",
+      "entry": 4601.44,
+      "sl": 4610.91,
+      "tp": 4571.74,
+      "status": "detected",
+      "notified_detected": true
+    },
+    "XAUUSD_bullish_4586.36000_4571.74000": {
+      "asset": "XAUUSD",
+      "direction": "bullish",
+      "entry": 4586.36,
+      "sl": 4571.74,
+      "tp": 4630.76,
+      "status": "detected",
+      "notified_detected": true
+    }
+  }
+}
