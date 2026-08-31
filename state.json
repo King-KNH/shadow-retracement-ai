@@ -44,6 +44,15 @@
       "tp": 4630.76,
       "status": "detected",
       "notified_detected": true
+    },
+    "EURUSD_bearish_1.16401_1.16600": {
+      "asset": "EURUSD",
+      "direction": "bearish",
+      "entry": 1.16401,
+      "sl": 1.166,
+      "tp": 1.15779,
+      "status": "detected",
+      "notified_detected": true
     }
   }
 }
