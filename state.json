@@ -89,6 +89,15 @@
       "tp": 4487.08,
       "status": "detected",
       "notified_detected": true
+    },
+    "XAUUSD_bearish_4462.48000_4490.72000": {
+      "asset": "XAUUSD",
+      "direction": "bearish",
+      "entry": 4462.48,
+      "sl": 4490.72,
+      "tp": 4365.79,
+      "status": "detected",
+      "notified_detected": false
     }
   }
 }
