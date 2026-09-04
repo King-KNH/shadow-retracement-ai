@@ -97,7 +97,7 @@
       "sl": 4490.72,
       "tp": 4365.79,
       "status": "detected",
-      "notified_detected": false
+      "notified_detected": true
     }
   }
 }
