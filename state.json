@@ -99,15 +99,6 @@
       "status": "detected",
       "notified_detected": true
     },
-    "XAUUSD_bearish_4404.21000_4404.78000": {
-      "asset": "XAUUSD",
-      "direction": "bearish",
-      "entry": 4404.21,
-      "sl": 4404.78,
-      "tp": 4394.53,
-      "status": "triggered",
-      "notified_detected": true
-    },
     "XAUUSD_bullish_4394.80000_4385.40000": {
       "asset": "XAUUSD",
       "direction": "bullish",
@@ -115,6 +106,15 @@
       "sl": 4385.4,
       "tp": 4423.88,
       "status": "triggered",
+      "notified_detected": true
+    },
+    "XAUUSD_bearish_4404.21000_4404.78000": {
+      "asset": "XAUUSD",
+      "direction": "bearish",
+      "entry": 4404.21,
+      "sl": 4404.78,
+      "tp": 4394.53,
+      "status": "closed_loss",
       "notified_detected": true
     }
   }
