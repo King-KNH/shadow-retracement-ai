@@ -108,6 +108,15 @@
       "status": "detected",
       "notified_detected": true
     },
+    "XAUUSD_bullish_4409.15000_4403.31000": {
+      "asset": "XAUUSD",
+      "direction": "bullish",
+      "entry": 4409.15,
+      "sl": 4403.31,
+      "tp": 4440.73,
+      "status": "detected",
+      "notified_detected": true
+    },
     "XAUUSD_bullish_4394.80000_4385.40000": {
       "asset": "XAUUSD",
       "direction": "bullish",
