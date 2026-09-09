@@ -115,7 +115,7 @@
       "sl": 4403.73,
       "tp": 4346.1,
       "status": "detected",
-      "notified_detected": false
+      "notified_detected": true
     },
     "XAUUSD_bullish_4395.01000_4381.33000": {
       "asset": "XAUUSD",
