@@ -141,7 +141,7 @@
       "entry": 4399.45,
       "sl": 4393.57,
       "tp": 4410.81,
-      "status": "detected",
+      "status": "triggered",
       "notified_detected": true
     },
     "XAUUSD_bearish_4393.84000_4403.73000": {
