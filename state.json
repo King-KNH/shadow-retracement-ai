@@ -142,7 +142,7 @@
       "sl": 78530.368,
       "tp": 76659.238,
       "status": "detected",
-      "notified_detected": false
+      "notified_detected": true
     },
     "XAUUSD_bearish_4329.43000_4330.23000": {
       "asset": "XAUUSD",
