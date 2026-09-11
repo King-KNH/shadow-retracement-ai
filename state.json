@@ -117,6 +117,33 @@
       "status": "detected",
       "notified_detected": false
     },
+    "XAUUSD_bearish_4375.70000_4390.72000": {
+      "asset": "XAUUSD",
+      "direction": "bearish",
+      "entry": 4375.7,
+      "sl": 4390.72,
+      "tp": 4324.3,
+      "status": "detected",
+      "notified_detected": false
+    },
+    "BTCUSD_bearish_79851.72700_79997.87300": {
+      "asset": "BTCUSD",
+      "direction": "bearish",
+      "entry": 79851.727,
+      "sl": 79997.873,
+      "tp": 79195.792,
+      "status": "detected",
+      "notified_detected": false
+    },
+    "BTCUSD_bearish_78245.56000_78530.36800": {
+      "asset": "BTCUSD",
+      "direction": "bearish",
+      "entry": 78245.56,
+      "sl": 78530.368,
+      "tp": 76659.238,
+      "status": "detected",
+      "notified_detected": false
+    },
     "XAUUSD_bullish_4352.88000_4341.52000": {
       "asset": "XAUUSD",
       "direction": "bullish",
