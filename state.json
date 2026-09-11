@@ -124,7 +124,7 @@
       "sl": 4390.72,
       "tp": 4324.3,
       "status": "detected",
-      "notified_detected": false
+      "notified_detected": true
     },
     "BTCUSD_bearish_79851.72700_79997.87300": {
       "asset": "BTCUSD",
