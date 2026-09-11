@@ -144,6 +144,15 @@
       "status": "detected",
       "notified_detected": true
     },
+    "XAUUSD_bearish_4360.12000_4370.47000": {
+      "asset": "XAUUSD",
+      "direction": "bearish",
+      "entry": 4360.12,
+      "sl": 4370.47,
+      "tp": 4344.34,
+      "status": "detected",
+      "notified_detected": true
+    },
     "BTCUSD_bullish_77974.53900_77211.45600": {
       "asset": "BTCUSD",
       "direction": "bullish",
