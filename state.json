@@ -141,7 +141,7 @@
       "entry": 77840.346,
       "sl": 77984.027,
       "tp": 77511.05,
-      "status": "detected",
+      "status": "triggered",
       "notified_detected": true
     },
     "BTCUSD_bearish_76914.56700_77101.28400": {
