@@ -135,6 +135,15 @@
       "status": "detected",
       "notified_detected": true
     },
+    "BTCUSD_bearish_81175.10000_81295.55000": {
+      "asset": "BTCUSD",
+      "direction": "bearish",
+      "entry": 81175.1,
+      "sl": 81295.55,
+      "tp": 80103.201,
+      "status": "triggered",
+      "notified_detected": true
+    },
     "BTCUSD_bearish_77840.34600_77984.02700": {
       "asset": "BTCUSD",
       "direction": "bearish",
