@@ -162,13 +162,22 @@
       "status": "detected",
       "notified_detected": false
     },
+    "EURUSD_bearish_1.13976_1.14089": {
+      "asset": "EURUSD",
+      "direction": "bearish",
+      "entry": 1.13976,
+      "sl": 1.14089,
+      "tp": 1.13741,
+      "status": "detected",
+      "notified_detected": true
+    },
     "BTCUSD_bullish_84510.00000_84305.35000": {
       "asset": "BTCUSD",
       "direction": "bullish",
       "entry": 84510.0,
       "sl": 84305.35,
       "tp": 85159.03,
-      "status": "triggered",
+      "status": "closed_loss",
       "notified_detected": true
     },
     "BTCUSD_bearish_81175.10000_81295.55000": {
