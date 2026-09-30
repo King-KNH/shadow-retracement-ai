@@ -177,7 +177,7 @@
       "entry": 83145.81,
       "sl": 82962.6,
       "tp": 83700.0,
-      "status": "detected",
+      "status": "triggered",
       "notified_detected": true
     },
     "BTCUSD_bullish_84510.00000_84305.35000": {
