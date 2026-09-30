@@ -180,6 +180,15 @@
       "status": "detected",
       "notified_detected": true
     },
+    "EURUSD_bearish_1.13537_1.13667": {
+      "asset": "EURUSD",
+      "direction": "bearish",
+      "entry": 1.13537,
+      "sl": 1.13667,
+      "tp": 1.13237,
+      "status": "detected",
+      "notified_detected": true
+    },
     "BTCUSD_bullish_83145.81000_82962.60000": {
       "asset": "BTCUSD",
       "direction": "bullish",
