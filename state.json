@@ -171,15 +171,6 @@
       "status": "detected",
       "notified_detected": true
     },
-    "XAUUSD_bullish_4185.49448_4179.02963": {
-      "asset": "XAUUSD",
-      "direction": "bullish",
-      "entry": 4185.49448,
-      "sl": 4179.02963,
-      "tp": 4214.43021,
-      "status": "triggered",
-      "notified_detected": true
-    },
     "EURUSD_bearish_1.13537_1.13667": {
       "asset": "EURUSD",
       "direction": "bearish",
@@ -187,6 +178,15 @@
       "sl": 1.13667,
       "tp": 1.13237,
       "status": "detected",
+      "notified_detected": true
+    },
+    "XAUUSD_bullish_4185.49448_4179.02963": {
+      "asset": "XAUUSD",
+      "direction": "bullish",
+      "entry": 4185.49448,
+      "sl": 4179.02963,
+      "tp": 4214.43021,
+      "status": "closed_loss",
       "notified_detected": true
     },
     "BTCUSD_bullish_83145.81000_82962.60000": {
