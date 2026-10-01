@@ -180,6 +180,15 @@
       "status": "detected",
       "notified_detected": true
     },
+    "BTCUSD_bearish_84240.35000_84419.69000": {
+      "asset": "BTCUSD",
+      "direction": "bearish",
+      "entry": 84240.35,
+      "sl": 84419.69,
+      "tp": 83340.0,
+      "status": "detected",
+      "notified_detected": true
+    },
     "XAUUSD_bullish_4185.49448_4179.02963": {
       "asset": "XAUUSD",
       "direction": "bullish",
