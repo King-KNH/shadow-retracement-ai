@@ -205,7 +205,7 @@
       "sl": 84558.0,
       "tp": 85428.01,
       "status": "detected",
-      "notified_detected": false
+      "notified_detected": true
     },
     "EURUSD_bullish_1.12346_1.12232": {
       "asset": "EURUSD",
