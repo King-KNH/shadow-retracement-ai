@@ -216,6 +216,15 @@
       "status": "detected",
       "notified_detected": true
     },
+    "BTCUSD_bullish_82597.97000_82464.96000": {
+      "asset": "BTCUSD",
+      "direction": "bullish",
+      "entry": 82597.97,
+      "sl": 82464.96,
+      "tp": 83418.0,
+      "status": "detected",
+      "notified_detected": true
+    },
     "EURUSD_bullish_1.12138_1.12023": {
       "asset": "EURUSD",
       "direction": "bullish",
