@@ -222,7 +222,7 @@
       "entry": 82597.97,
       "sl": 82464.96,
       "tp": 83418.0,
-      "status": "detected",
+      "status": "triggered",
       "notified_detected": true
     },
     "EURUSD_bullish_1.12138_1.12023": {
